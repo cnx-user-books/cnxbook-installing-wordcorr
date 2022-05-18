@@ -1,0 +1,10 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Set up Wordcorr</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>402cc67f-279f-4437-968b-2c4b459dbc2e</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me"><term>Install Wordcorr.</term> Wordcorr is free. Wordcorr runs on any Windows system from Windows 98 on. (We're working on Macintosh and Linux versions, but they're not ready yet.) Choose the type of download Wordcorr you need, and follow the instructions. Then come back to this page for information on how to run Wordcorr.</para><list id="element-367" list-type="bulleted"><item><link document="m13436">First-time installation</link> on Windows</item>
+	<item><link document="m13440">Upgrade</link> an earlier version already installed on Windows</item></list><para id="element-777"><term>Run Wordcorr.</term> Once you have Windows on your computer, you can start it up any time. You can have the installer program put a Wordcorr icon on your desktop or one your task bar near the Start button. Or you can reach it through the Start button itself.</para><para id="element-134"><term>Set up your Wordcorr identifiers.</term> Once Wordcorr is running, it needs a small amount of public information about you before you can start to actually do anything linguistic. Click <link document="m13468">here</link> to find out about user metadata.</para>   
+  </content>
+  
+</document>

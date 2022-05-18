@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+  <title>Wordcorr overview</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>63f04cd3-4631-4473-ad2f-6684cf6a61e7</md:uuid>
+</metadata>
+  <content>
+    <para id="element-674">Comparative linguistics looks at <term>vocabulary item</term>s from two or more <term>speech varieties</term> that might have a common origin and attempts to explain how their differences developed.
+</para><para id="element-267">For example, the word for “cat” is pronounced <foreign>gato</foreign> in Spanish, <foreign>gatu</foreign> in Portuguese, <foreign>gat</foreign> in Catalán of eastern Spain, and <foreign>gat</foreign> in Occitan of southern France. (The forms given here represent the pronunciation, not the traditional spelling.) It's easy to see that the four forms might have a common origin.
+</para><para id="element-860">It's also easy to guess that the ancestral word behind this <term>entry</term> may well have contained the sounds <foreign>g-a-t</foreign>. But to decide whether the original had a vowel at the end and Catalán (let's just call it C) and Occitan (O) lost it, or whether there was no vowel at the end and S and P developed one, we need much more data. And if S and P did inherit an earlier vowel in common, was it <foreign>o</foreign> or <foreign>u</foreign>? Or something else?</para><para id="element-980"><table id="entry2corr" summary=""><tgroup cols="7" align="left" colsep="0" rowsep="0">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="4" colname="c4"/>
+    <colspec colnum="7" colname="c7"/>
+    <thead valign="top">
+     <row>
+      <entry namest="c1" nameend="c2">Word list entry</entry>
+      <entry>and its</entry><entry namest="c4" nameend="c7" align="center">Correspondence sets</entry>
+     </row>
+     <row>
+      <entry> </entry>
+      <entry namest="c2" nameend="c2"><emphasis>'cat'</emphasis></entry>
+      <entry>  </entry>
+      <entry namest="c4">S</entry>
+      <entry>P</entry>
+      <entry>C</entry>
+      <entry>O</entry>
+     </row>
+    </thead>
+    <tbody valign="top">
+     <row>
+      <entry>S</entry>
+      <entry>gato</entry>
+      <entry>  </entry>
+      <entry namest="c4">g</entry>
+      <entry>g</entry>
+      <entry>g</entry>
+      <entry>g</entry>
+     </row>
+     <row>
+      <entry>P</entry>
+      <entry>gatu</entry>
+      <entry> </entry>
+      <entry>a</entry>
+      <entry>a</entry>
+      <entry>a</entry>
+      <entry>a</entry>
+     </row>
+     <row>
+      <entry>C</entry>
+      <entry>gat</entry>
+      <entry>  </entry>
+      <entry namest="c4">t</entry>
+      <entry>t</entry>
+      <entry>t</entry>
+      <entry>t</entry>
+     </row>
+     <row>
+      <entry>O</entry>
+      <entry>gat</entry>
+      <entry>  </entry>
+      <entry namest="c4">o</entry>
+      <entry>u</entry>
+      <entry>/</entry>
+      <entry>/</entry>
+     </row>
+    </tbody>
+  </tgroup>
+</table></para><para id="element-427">Clearly it takes a lot more than a single set of words for “cat” to give evidence for the history of those speech varieties; but it is a start. When we get to comparing much beyond four varieties, it's easy to get lost, especially if you're making the comparison the traditional way using file slips. That's where the computer program called <term>Wordcorr</term> comes into the picture. 
+</para><para id="element-375">In a nutshell, Wordcorr lets you put together a <term>collection</term> of <term>data</term> from as many <term>speech varieties</term> (like Spanish and Portuguese) as you are investigating. You can start with just one <term>entry</term> like "cat," and build up to two or three hundred <term>vocabulary item</term>s and many more. Once the data are in, Wordcorr walks you through the many decisions you have to make about what the data actually show. As you work, it organizes and reorganizes the results of those judgments. That's how you put the whole picture together. With Wordcorr, it takes much less time than if you tried to do everything by hand.</para>
+<para id="element-573">--Here's a self test to assure you that you're on the right track. We don't keep any record of your answer, because you know perfectly well what to do with the results. Try it:</para>
+<exercise id="collection-proportion-exercise">
+<q:item id="collection-proportions" type="single-response">
+ <q:question>A typical Wordcorr collection is likely to contain ...</q:question>
+  <q:answer id="coll-prop1">
+   <q:response>more speech varieties than entries</q:response>
+   <q:feedback>That would imply very short word lists.</q:feedback>
+  </q:answer>
+  <q:answer id="coll-prop2">
+   <q:response>more entries than speech varieties</q:response>
+   <q:feedback>That's correct.</q:feedback>
+  </q:answer>
+  <q:answer id="coll-prop3">
+   <q:response>about the same</q:response>
+   <q:feedback>Typical collections would be much larger than that.</q:feedback>
+  </q:answer>
+  <q:hint>We mentioned four or more of one, 200 to over 300 for the other.</q:hint>
+  <q:feedback>A collection consists of a manageable number of speech varieties, rarely more than a few dozen, and entries for all the data you have available.</q:feedback>
+  <q:key answer="coll-prop2"/>
+</q:item>  
+</exercise> 
+  </content>
+  
+</document>

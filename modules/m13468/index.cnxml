@@ -1,0 +1,13 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Information about you</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>05881216-f8f5-4931-9eef-29490d47820a</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">After you install Wordcorr, it needs a small amount of information about you. This is the same kind of public information that you would include with an article published in, say, <cite><cite-title>Language.</cite-title></cite> Wordcorr will attach this to your data collections automatically. Here is what Wordcorr asks for on its User panel:</para><figure id="element-430"><media id="idm1047216" alt=""><image src="../../media/EMELD06-User.jpg" mime-type="image/jpeg"/></media>
+<caption>User information from Wordcorr's New User panel.</caption></figure><list id="element-170" list-type="enumerated"><item>A short personal identifier, 1 to 3 capital letters such as your initials (like JG). When we start registering people who use Wordcorr, by means of the Internet, wordcorr.org will accept only identifiers that aren't already registered to someone else; so at that time you might have to change.</item>
+	<item>Your long term email address</item>
+	<item>Your first and last names -- given name(s) and family name(s) separated, to facilitate alphabetizing</item>
+<item>Your institutional affiliation. If you have more than one, put each one on a separate line.</item></list><para id="element-834">You enter this obligatory information only once: when Wordcorr first comes up on the screen. From then on you have to worry only about making changes (like a new email address) when they come up. Click the File menu, choose New User, and fill in the blanks.</para><para id="element-914">Once the information about you is filled in, you can start to create or import a Wordcorr collection.</para>   
+  </content>
+  
+</document>

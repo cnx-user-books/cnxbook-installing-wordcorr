@@ -1,0 +1,27 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10339</md:content-id>
+    <md:title>Installing Wordcorr</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>d10e10ca-789c-4a64-8979-dc1b123c8b2f</md:uuid>
+<md:slug>installing-wordcorr</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>What's Wordcorr?</md:title>
+      <col:content>
+        <col:module document="m13353"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Setting up</md:title>
+      <col:content>
+        <col:module document="m13435"/>
+        <col:module document="m13436"/>
+        <col:module document="m13440"/>
+        <col:module document="m13468"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
